@@ -5,13 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikakash" alt="anikakash" /></a> </p>
 
+- 🔭 I’m currently working on [Competitive Programming](https://github.com/anikakash/Competitive-Programming)
+
 - 🌱 I’m currently learning **Mathematics**
+
+- 👯 I’m looking to collaborate on an UI/UX design Project [Your Buddy](https://xd.adobe.com/view/ef04c34a-63cb-4de9-8241-2e779890e9a7-ba57/)
+
+- 🤝 I have made an Mathematics Calculator for my Problem Solving lab [Mathematical Apps For Beginners](https://github.com/anikakash/Mathematical-Apps-For-Beginners)
 
 - 💬 Ask me about **C/C++**
 
 - 📫 How to reach me **anikdash989@gamil.com**
 
-- 📄 Know about my Sport Programming Statistics [https://sites.google.com/view/anikakash/cp-profile?authuser=0](https://sites.google.com/view/anikakash/cp-profile?authuser=0)
+- 📄 Know about my  [Sport Programming Statistics](https://sites.google.com/view/anikakash/cp-profile?authuser=0)
 
 - ⚡ Fun fact **I think i'm funny**
 
@@ -24,7 +30,7 @@
 <a href="https://www.codechef.com/users/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anikakash" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anikakash" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="anikakash" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@anikakash" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="anikakash" height="30" width="40" /></a>
 </p>
 
