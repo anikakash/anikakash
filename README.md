@@ -11,15 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anikakash" height="30" width="40" /></a>
-<a href="https://fb.com/anikdash.akash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anikdash.akash" height="30" width="40" /></a>
-<a href="https://instagram.com/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anikakash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="anikakash" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anikakash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anikakash" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="anikakash" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="anikakash" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anikakash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anikakash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://fb.com/anikdash.akash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anikdash.akash" height="30" width="40" /></a>
+<a href="https://instagram.com/anikakash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anikakash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anikakash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anikakash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/anikakash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@anikakash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="anikakash" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anikakash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="anikakash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
