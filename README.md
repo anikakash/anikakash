@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm anik akash</h1>
-<hr>
 <h3 align="center">Competitive Programmer | EX BNCC Cadet | Sports Programming Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /> </p>
