@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm anik akash</h1>
+<h1 align="center">Hi 👋, I'm Anik Dash Akash</h1>
 <h3 align="center">Competitive Programmer | EX BNCC Cadet | Sports Programming Enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /></p> 
+<p align="center">user name : anikakash</p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikakash" alt="anikakash" /></a> </p>
 
