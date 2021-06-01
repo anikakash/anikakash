@@ -42,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikakash&show_icons=true&locale=en" alt="anikakash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikakash&" alt="anikakash" /></p>
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikakash&theme=radical" />
