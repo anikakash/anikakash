@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anik Dash Akash</h1>
-<h3 align="center">Competitive Programmer | EX BNCC Cadet | Open-Source Enthusiast</h3>
+<h3 align="center">CS Student | EX BNCC Cadet | Open-Source Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /></p> 
 <p align="center">user name : anikakash</p>
