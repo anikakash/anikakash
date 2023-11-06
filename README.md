@@ -21,5 +21,5 @@ I'm currently working on my [@progtheta](https://github.com/progtheta) <br>I'm l
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /></p> 
 
-
+<a href="https://app.daily.dev/anikakash"><img src="https://api.daily.dev/devcards/847d910039834805b4a581a38c6bd6f4.png?r=ds9" width="400" alt="Anik Dash Akash's Dev Card"/></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
