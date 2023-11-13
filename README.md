@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my [@progtheta](https://github.com/progtheta) <br>I'm looking to collaborate on [CampusCompass](https://github.com/anikakash/CampusCompass)<br>I'm currently learning Nest.JS<br>I love to eat more.
+I'm currently working on  [@progtheta](https://github.com/progtheta) <br>I'm looking to collaborate on [CampusCompass](https://github.com/anikakash/CampusCompass)<br>I'm currently learning Nest.JS<br>I love to eat more.
 
 
 ## 🌐 Socials:
