@@ -43,6 +43,11 @@
 - **RaiseTheVoice**: A platform for raising voices and inspiring action. [Code](https://github.com/raisethevoice/raisethevoice) | [Live](https://www.raisethevoice.net)
 - **Chitrokolpo**: An image search website integrating the Unsplash API. [Code](https://github.com/anikakash/JSProjects/tree/main/ImageSearch) | [Live](https://anikakash.github.io/JSProjects/ImageSearch/)
 
+### 📝 Recent Blog Posts from dev.to
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anikakash&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anikakash&theme=dark&hide_border=true)<br/>
