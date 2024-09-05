@@ -9,17 +9,36 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository
       - uses: actions/checkout@v2
+
+      # Get latest dev.to posts and save them to devto.json
       - name: Get latest dev.to posts
         run: |
           curl https://dev.to/api/articles?username=anikakash > devto.json
+
+      # Install Python (if your script requires specific packages)
+      - name: Install Python Dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          # Install necessary packages (add any other packages you might need)
+          python3 -m pip install requests
+
+      # Run the Python script to update README.md
       - name: Update README.md
         run: |
           python3 update_readme.py
-      - name: Commit changes
+
+      # Check if there are changes before committing
+      - name: Check for Changes
         run: |
-          git config --global user.name "your-github-username"
-          git config --global user.email "your-email"
-          git add README.md
+          git diff --quiet || git add README.md
+
+      # Commit and push changes if there are any
+      - name: Commit changes
+        if: success() && steps.update_readme.outputs.changes_detected
+        run: |
+          git config --global user.name "anikakash"
+          git config --global user.email "anik15-14210@diu.edu.bd"
           git commit -m "Update dev.to posts"
           git push
