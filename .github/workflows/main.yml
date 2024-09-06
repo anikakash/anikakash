@@ -1,0 +1,39 @@
+name: Update README with dev.to posts
+
+on:
+  schedule:
+    - cron: "0 20 * * *"  # Runs at 2 AM BD time (20:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository content
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install required Python packages
+      run: |
+        pip install requests
+
+    - name: Update README with latest dev.to posts
+      run: |
+        python .github/workflows/update_readme.py
+
+    - name: Pull latest changes
+      run: |
+        git config --global user.name "anikakash"
+        git config --global user.email "anik15-14210@diu.edu.bd"
+        git pull origin main --rebase  # Pull latest changes and rebase
+
+    - name: Commit and push changes
+      run: |
+        git add README.md
+        git commit -m "Update dev.to posts"
+        git push origin main
