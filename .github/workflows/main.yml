@@ -3,7 +3,7 @@ name: Update README with dev.to posts
 on:
   schedule:
     # Run at 8:15 PM UTC (2:15 AM Bangladesh time) every day
-    - cron: "0 7 * * *"
+    - cron: "15 20 * * *" # This sets it to run at 8:15 PM UTC (2:15 AM BST)
 
 jobs:
   update-readme:
@@ -18,7 +18,7 @@ jobs:
           python3 -m pip install --upgrade pip
           pip install requests
 
-      # Fetch the latest dev.to posts and update the README
+      # Fetch the latest dev.to posts and update README
       - name: Get latest dev.to posts and update README
         run: |
           python3 .github/workflows/update_readme.py
