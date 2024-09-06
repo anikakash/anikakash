@@ -3,7 +3,7 @@ name: Update README with dev.to posts
 on:
   schedule:
     # Run at 8:15 PM UTC (2:15 AM Bangladesh time) every day
-    - cron: "15 20 * * *"
+    - cron: "0 7 * * *"
 
 jobs:
   update-readme:
