@@ -43,8 +43,24 @@
 - **RaiseTheVoice**: A platform for raising voices and inspiring action. [Code](https://github.com/raisethevoice/raisethevoice) | [Live](https://www.raisethevoice.net)
 - **Chitrokolpo**: An image search website integrating the Unsplash API. [Code](https://github.com/anikakash/JSProjects/tree/main/ImageSearch) | [Live](https://anikakash.github.io/JSProjects/ImageSearch/)
 
-### 📝 Recent Blog Posts from dev.to
-## Latest dev.to posts
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anikakash&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anikakash&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anikakash&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anikakash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /></p> 
+
+| Dev Card | Recent Blog Posts |
+|----------|-------------------|
+| <a href="https://app.daily.dev/anikakash"><img src="https://api.daily.dev/devcards/847d910039834805b4a581a38c6bd6f4.png?r=ds9" width="300" alt="Anik Dash Akash's Dev Card"/></a> | ## Latest dev.to posts |
+
 
 - [Top 10 Clean Code Rules 🎨🚀](https://dev.to/anikakash/top-10-clean-code-rules-13i6)
 - [How Can I Setup Sublime Text Editor For Competitive Programming](https://dev.to/anikakash/how-can-i-setup-sublime-text-editor-for-competitive-programming-52ga)
