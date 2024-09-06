@@ -44,8 +44,7 @@
 - **Chitrokolpo**: An image search website integrating the Unsplash API. [Code](https://github.com/anikakash/JSProjects/tree/main/ImageSearch) | [Live](https://anikakash.github.io/JSProjects/ImageSearch/)
 
 ### 📝 Recent Blog Posts from dev.to
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Latest dev.to posts
 
 
 # 📊 GitHub Stats:
