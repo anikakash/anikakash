@@ -26,11 +26,19 @@ jobs:
       run: |
         python .github/workflows/update_readme.py
 
-    - name: Pull latest changes
+    - name: Stash changes before pull
       run: |
         git config --global user.name "anikakash"
         git config --global user.email "anik15-14210@diu.edu.bd"
+        git stash  # Stash any unstaged changes
+
+    - name: Pull latest changes
+      run: |
         git pull origin main --rebase  # Pull latest changes and rebase
+
+    - name: Apply stashed changes
+      run: |
+        git stash pop  # Reapply stashed changes
 
     - name: Commit and push changes
       run: |
