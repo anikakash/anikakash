@@ -1,0 +1,28 @@
+name: Update README with dev.to posts
+
+on:
+  schedule:
+    # Run at 2:15 AM BST (8:15 PM UTC) every day
+    - cron: "15 20 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Get latest dev.to posts
+        run: |
+          curl https://dev.to/api/articles?username=anikakash > devto.json
+      
+      - name: Update README.md
+        run: |
+          python3 .github/workflows/update_readme.py
+      
+      - name: Commit changes
+        run: |
+          git config --global user.name "anikakash"
+          git config --global user.email "anik15-14210@diu.edu.bd"
+          git add README.md
+          git commit -m "Update dev.to posts"
+          git push
