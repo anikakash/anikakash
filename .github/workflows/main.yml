@@ -27,7 +27,7 @@ jobs:
       # Run the Python script to update README.md
       - name: Update README.md
         run: |
-          python3 update_readme.py
+          python3 .github/workflows/update_readme.py
 
       # Check if there are changes before committing
       - name: Check for Changes
