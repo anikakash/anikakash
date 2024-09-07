@@ -2,46 +2,43 @@ name: Update README with dev.to posts
 
 on:
   schedule:
-    - cron: "0 20 * * *"  # Runs at 2 AM BD time (20:00 UTC)
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository content
-      uses: actions/checkout@v2
+      - name: Checkout repository content
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.12'
 
-    - name: Install required Python packages
-      run: |
-        pip install requests
+      - name: Install required Python packages
+        run: |
+          pip install requests
 
-    - name: Update README with latest dev.to posts
-      run: |
-        python .github/workflows/update_readme.py
+      - name: Update README with latest dev.to posts
+        run: |
+          python update_readme.py
 
-    - name: Stash changes before pull
-      run: |
-        git config --global user.name "anikakash"
-        git config --global user.email "anik15-14210@diu.edu.bd"
-        git stash  # Stash any unstaged changes
+      - name: Stash changes before pull
+        run: |
+          git stash
+          git pull --rebase
 
-    - name: Pull latest changes
-      run: |
-        git pull origin main --rebase  # Pull latest changes and rebase
+      - name: Apply stashed changes
+        run: |
+          git stash pop || echo "No stash entries found."
 
-    - name: Apply stashed changes
-      run: |
-        git stash pop  # Reapply stashed changes
-
-    - name: Commit and push changes
-      run: |
-        git add README.md
-        git commit -m "Update dev.to posts"
-        git push origin main
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "anikakash"
+          git config --global user.email "anik15-14210@diu.edu.bd"
+          git add README.md
+          git commit -m "Update dev.to posts"
+          git push
