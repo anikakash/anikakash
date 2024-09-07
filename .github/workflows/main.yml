@@ -35,10 +35,16 @@ jobs:
         run: |
           git stash pop || echo "No stash entries found."
 
-      - name: Commit and push changes
+      - name: Commit and push changes if there are any
         run: |
           git config --global user.name "anikakash"
           git config --global user.email "anik15-14210@diu.edu.bd"
           git add README.md
-          git commit -m "Update dev.to posts"
-          git push
+
+          # Only commit if there are changes
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update dev.to posts"
+            git push
+          fi
