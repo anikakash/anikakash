@@ -57,9 +57,10 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /></p> 
 
-| Dev Card | Recent Blog Posts |
-|----------|-------------------|
-| <a href="https://app.daily.dev/anikakash"><img src="https://api.daily.dev/devcards/847d910039834805b4a581a38c6bd6f4.png?r=ds9" width="300" alt="Anik Dash Akash's Dev Card"/></a> | ## Latest dev.to posts
+| Dev Card | 
+|----------|
+| <a href="https://app.daily.dev/anikakash"><img src="https://api.daily.dev/devcards/847d910039834805b4a581a38c6bd6f4.png?r=ds9" width="300" alt="Anik Dash Akash's Dev Card"/></a> |
+## Latest dev.to posts
 
 - [Linux - লিনাক্স](https://dev.to/anikakash/linaaks-1p1j)
 - [Top 10 Clean Code Rules 🎨🚀](https://dev.to/anikakash/top-10-clean-code-rules-13i6)
