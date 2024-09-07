@@ -24,7 +24,7 @@ jobs:
 
       - name: Update README with latest dev.to posts
         run: |
-          python update_readme.py
+          python .github/workflows/update_readme.py  # Update the path here
 
       - name: Stash changes before pull
         run: |
