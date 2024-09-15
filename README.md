@@ -4,6 +4,9 @@
 - 🤝 I’m looking to collaborate on [CampusCompass](https://github.com/anikakash/CampusCompass)
 - 🍴 I love to eat more!
 
+![anikakash_linkedIN_Cover](https://github.com/user-attachments/assets/64de7841-78b1-4f64-a972-329252761e04)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anikakash)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anikdashakash)
