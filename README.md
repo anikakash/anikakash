@@ -115,11 +115,6 @@
 
 ![anikakash_linkedIN_Cover](https://github.com/user-attachments/assets/64de7841-78b1-4f64-a972-329252761e04)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
 
 | Dev Card | 
 |----------|
