@@ -121,6 +121,7 @@
 | <a href="https://app.daily.dev/anikakash"><img src="https://api.daily.dev/devcards/847d910039834805b4a581a38c6bd6f4.png?r=ds9" width="300" alt="Anik Dash Akash's Dev Card"/></a> |
 ## Latest dev.to posts
 
+- [Interview Question on JS Variable](https://dev.to/anikakash/interview-question-on-js-variable-j9d)
 - [Understanding State and Props in React 💻🌱](https://dev.to/anikakash/understanding-state-and-props-in-react-5b9j)
 - [Linux - লিনাক্স](https://dev.to/anikakash/linaaks-1p1j)
 - [Top 10 Clean Code Rules 🎨🚀](https://dev.to/anikakash/top-10-clean-code-rules-13i6)
