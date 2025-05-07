@@ -1,14 +1,35 @@
+<h1 align="center">Hi there, I'm Anik Dash Akash 👋</h1>
 
+<p align="center">
+  <a href="https://github.com/anikakash">
+    <img src="https://img.shields.io/github/followers/anikakash?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://bd.linkedin.com/in/anikakash">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/anikdashakash">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" alt="Twitter">
+  </a>
+  <a href="https://dev.to/anikakash">
+    <img src="https://img.shields.io/badge/DEV-Read-blue?logo=dev.to" alt="DEV.to">
+  </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /></p> 
+</p>
 
-# 💫 About Me:
-- 🔭 I’m currently working on [Prog Theta](https://github.com/progtheta)
-- 🌱 I’m currently learning **Socket.IO**
-- 🤝 I’m looking to collaborate on [CampusCompass](https://github.com/anikakash/CampusCompass)
-- 🍴 I love to eat more!
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anikakash&label=Profile%20views&color=0e75b6&style=flat" alt="anikakash" /></p> 
+### 👨‍💻 About Me
 
+- 💼 Software Engineer at [Strativ AB](https://strativ.se)
+- 🎓 Graduate of Daffodil International University
+- 🧠 Passionate about JavaScript, TypeScript, and C++
+- 🌐 Open-source enthusiast and contributor
+- 🏃‍♂️ Completed the 10K BOA Marathon 2024
+- 🍽️ Food lover and lifelong learner
+
+---
+
+### 🚀 Tech Stack
 
 <h2 align="left">I code with</h2>
 
@@ -98,28 +119,52 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+---
 
-<h2 align="center">Github Statistics</h2>
+### 📌 Featured Projects
 
-###
+- [CampusCompass](https://github.com/anikakash/CampusCompass) 🌟  
+  A university research tool with 19 stars.  
+  _"Research your Dream University With Campus Compass"_
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikakash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikakash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=anikakash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikakash&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+- [Shortly](https://github.com/anikakash/Shortly) 🔗  
+  An open-source URL shortener built with JavaScript.
 
-###
+- [DOCTIME Landing Page](https://github.com/anikakash/DOCTIME) 🏥  
+  A telemedicine web landing page designed for better healthcare access.
 
-![anikakash_linkedIN_Cover](https://github.com/user-attachments/assets/64de7841-78b1-4f64-a972-329252761e04)
+---
 
+### 📈 GitHub Stats
+
+![Anik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anikakash&show_icons=true&theme=radical)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anikakash&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://bd.linkedin.com/in/anikakash)
+- 🐦 [Twitter](https://twitter.com/anikdashakash)
+- 📝 [DEV.to](https://dev.to/anikakash)
+- 🌍 [Portfolio](https://anikakash.github.io/anikakash/)
+
+---
+
+### 🎯 Current Goals
+
+- 📚 Learning Socket.IO
+- 🤝 Collaborating on [CampusCompass](https://github.com/anikakash/CampusCompass)
+- 🛠️ Building innovative backend solutions
+- 🧪 Exploring new technologies and frameworks
+
+---
 
 | Dev Card | 
 |----------|
 | <a href="https://app.daily.dev/anikakash"><img src="https://api.daily.dev/devcards/847d910039834805b4a581a38c6bd6f4.png?r=ds9" width="300" alt="Anik Dash Akash's Dev Card"/></a> |
-## Latest dev.to posts
+### 📝 Latest dev.to posts
 
 - [Conventional Git Commits With Best Practices.](https://dev.to/anikakash/conventional-git-commits-with-best-practices-4d2)
 - [Interview Question on JS Variable](https://dev.to/anikakash/interview-question-on-js-variable-j9d)
