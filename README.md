@@ -18,14 +18,46 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 Software Engineer at [Strativ AB](https://strativ.se)
-- 🎓 Graduate of Daffodil International University
-- 🧠 Passionate about JavaScript, TypeScript, and C++
-- 🌐 Open-source enthusiast and contributor
-- 🏃‍♂️ Completed the 10K BOA Marathon 2024
-- 🍽️ Food lover and lifelong learner
+**💼 Software Engineer @ Strativ AB**  
+🌍 Working with a Sweden-based team on scalable frontend solutions using React, TypeScript, and modern web technologies.
+
+**🎓 BSc in Computer Science & Engineering**  
+📍 Daffodil International University — Focused on Software Engineering and AI-related coursework.
+
+---
+
+### 🛠️ Skilled In
+- **Frontend:** React, TypeScript, Styled Components, Ant Design  
+- **Backend:** Node.js, Express, REST APIs  
+- **DevOps & Tools:** Git, Vercel, Render, AWS S3, Neon DB
+
+---
+
+### 📦 Community & Contributions
+- Open-source contributor on GitHub  
+- Tech blogger sharing JS/TS tips and tutorials  
+- Passionate about writing clean, maintainable code
+
+---
+
+### 🏁 Achievements & Activities
+- 🏃‍♂️ Completed **10K BOA Marathon 2024**  
+- 🏆 **Champion of JuneHack 2023** — University hackathon organized by faculty and industry seniors (Team: *Campus Compass*)  
+- 🏆 Participated in **ACM ICPC Regional Contest**  
+- 🧪 Final-year research on **Computer Vision & AI**
+
+---
+
+### 🎯 Current Focus
+- Building production-ready frontend apps  
+- Learning **Go** for backend microservices  
+
+---
+
+🍱 **Fun Fact:** Always exploring new foods while refactoring old code.
+
 
 ---
 
