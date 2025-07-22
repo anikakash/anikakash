@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-**💼 Software Engineer @ Strativ AB**  
+**💼 Software Engineer @ [Strativ AB](https://strativ.se/)**  
 🌍 Working with a Sweden-based team on scalable frontend solutions using React, TypeScript, and modern web technologies.
 
 **🎓 BSc in Computer Science & Engineering**  
@@ -43,25 +43,16 @@
 ---
 
 ### 🏁 Achievements & Activities
-- 🏃‍♂️ Completed **10K BOA Marathon 2024**  
-- 🏆 **Champion of JuneHack 2023** — University hackathon organized by faculty and industry seniors (Team: *Campus Compass*)  
-- 🏆 Participated in **ACM ICPC Regional Contest**  
+- 🏃‍♂️ Completed **[10K BOA Marathon 2024](https://runsignup.com/Race/Results/176028/FinishersCert?resultSetId=519870&resultId=163059970#certificate)** — organized by the **Bangladesh Olympic Association**  
+- 🏆 **Champion of [JuneHack 2023](https://www.facebook.com/hackversedev/posts/pfbid0vmz9vSNp7TfiqUk6kUY4fhfjS9SKZQ9SnrEERGSdPNmeRFN6wmpCEpWNhcd3Cdwbl)** — University hackathon organized by faculty and industry seniors (Team: *Campus Compass*)  
+- 🏆 Participated in [**ACM ICPC Regional Contest**](https://icpc.global/ICPCID/ULTDGFIIMCW5)  
 - 🧪 Final-year research on **Computer Vision & AI**
-
----
-
-### 🎯 Current Focus
-- Building production-ready frontend apps  
-- Learning **Go** for backend microservices  
 
 ---
 
 🍱 **Fun Fact:** Always exploring new foods while refactoring old code.
 
-
 ---
-
-### 🚀 Tech Stack
 
 <h2 align="left">I code with</h2>
 
