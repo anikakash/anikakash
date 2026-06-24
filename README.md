@@ -23,6 +23,9 @@
 **💼 Software Engineer @ [Strativ AB](https://strativ.se/)**  
 🌍 Working with a Sweden-based team on scalable frontend solutions using React, TypeScript, and modern web technologies.
 
+**🎓 MSc in Automotive Software Engineering**  
+📍 Chemnitz University of Technology — Germany.
+
 **🎓 BSc in Computer Science & Engineering**  
 📍 Daffodil International University — Focused on Software Engineering and AI-related coursework.
 
